@@ -7,5 +7,7 @@ Said scripts can often be found here.
 
 ## If you want to get in touch with me:
 Twitter: @NordiiTW
+
 Discord: Nordii#7202
+
 Email: aaronvey32@gmail.com
