@@ -1,4 +1,4 @@
-Hi, I'm Nordii!
+Hi, I'm Nordii! (he/him pronouns, please!)
 
 I'm just a nerd/geek/computer-enthusiast/whatever from NL.
 
