@@ -10,4 +10,4 @@ Twitter: @NordiiTW
 
 Discord: Nordii#7202
 
-Email: aaronvey32@gmail.com
+Email: oars-marten06@icloud.com
