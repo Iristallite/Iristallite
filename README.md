@@ -1,12 +1,21 @@
-Hi, I'm Iris! (she/her pronouns, please!)
+## Ohairis!
 
-I'm just a nerd/geek/computer-enthusiast/whatever from NL. (**N**ewfound**l**and, not the **N**ether**l**ands!)
+My name is Iris Lynnfield, and I'm a hobby programmer (sometimes) from Newfoundland.  
+I do some programming every now and then, and sometimes I put the results here!  
 
-I like to play games, and also sometimes write scripty/programmy stuff.
-Said stuff can often be found here.
+Languages I'm decently fluent in:
+* English (plaintext)
+* PowerShell 7 (diet C#)
+* JSON
+* YAML
 
-### If you want to get in touch with me:
+### Here's a sampler of my [Devices](Devices.md):
+* Theseus (Desktop PC)
+* Graphite (Laptop PC)
+* Deepslate (Handheld PC)
+
+### Other sites! Usernames!
 Twitter: [@Iristallite](https://twitter.com/Iristallite)  
-Mastodon: <a rel="me" href="https://mastodon.social/@Iristallite">@Iristallite@mastodon.social</a>  
-Discord: @iristallite#0
-
+Bluesky: [@iristallite.bsky.social](https://bsky.app/profile/iristallite.bsky.social)  
+Discord: iristallite  
+Twitch: [Iristallite](https://twitch.tv/Iristallite)  
