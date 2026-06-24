@@ -4,13 +4,12 @@
 My pride and joy, the desktop that's grown with me over the years!  
 When my dad closed his PC repair business, it became an e-waste garden for me to pick through as much as I wanted.  
 Named after the famous(?) [Ship of Theseus paradox](https://en.wikipedia.org/wiki/Ship_of_Theseus) due to almost no parts remaining from the original build.  
-^ I think the only things left are the Blu-Ray drive...  
-^ ...and ~~a pair of WD Green hard drives~~- er, ~~a single WD Green hard drive~~--nope, that one's dead now too.  
-  * Current specs: (as of 2025-11-30)
+^ I think the only things left are the power supply, Blu-ray drive, and a single WD Green hard drive, the last of 5.
+  * Current specs: (as of 2026-06-25)
     * CPU: Intel Core i5-12600K
     * GPU: NVIDIA GeForce RTX 3060 Ti 8GB
     * RAM: 32GB DDR4-3200 (0/16/0/16)
-    * OS: Windows 11 Workstation 24H2
+    * OS: Windows 11 Workstation
     * Main SSD: 1TB Sabrent Rocket 4.0
     * Auxiliary SSD: 500GB Sabrent Rocket 3.0
     * Funnier SSD: The 64GB eMMC from the original base-model Steam Deck ("Foresee E2M2")
@@ -18,7 +17,7 @@ Named after the famous(?) [Ship of Theseus paradox](https://en.wikipedia.org/wik
     * HDD: Due to budget constraints, the NAS got built into the gaming PC (~26.8TB across 8 assorted drives)
     * Optical Media: Hitachi-LG GGW-H20L (CD, DVD, HD-DVD(!?), Blu-Ray)
 * Graphite (Laptop PC)  
-  Used business laptops are an amazing budget option! This was $184.
+  Used business laptops ~~are~~ *were* an amazing budget option... at the time it was $184.
   * Current specs: (as of 2025-11-30)
     * CPU: Intel Core i5-7300U
     * GPU: Intel HD Graphics 620
@@ -28,7 +27,7 @@ Named after the famous(?) [Ship of Theseus paradox](https://en.wikipedia.org/wik
     * Screen: The second worst TN LCD I've seen on a laptop
     * OS: Windows 11, I forget if it was Enterprise or Workstation though
 * Deepslate (Handheld PC)  
-  Its only notable quality is that I bought it with *thirty $20 Steam gift cards.*
+  Its only notable quality is that I bought it with *a gigantic stack of Steam gift cards.*
    * Specs:
     * Model: Valve Steam Deck LCD
     * APU: AMD Custom 0407
@@ -38,7 +37,8 @@ Named after the famous(?) [Ship of Theseus paradox](https://en.wikipedia.org/wik
     * Screen: 1280x800 capacitive IPS LCD
 ## Mobile Devices (iOS/Android/whatever)
 * Rustleaf (iPad mini 5)  
-  Unfortunately dropped onto solid concrete in March 2025, its original screen was completely obliterated.
+  Unfortunately dropped onto solid concrete in March 2025, its original screen was completely obliterated.  
+  A new screen was finally installed around April 2026, but I didn't quite do it right, and it isn't adhered properly.
   * Specs:
     * Model: A2133 (Wi-Fi)
     * SoC: Apple A12
@@ -62,18 +62,10 @@ Named after the famous(?) [Ship of Theseus paradox](https://en.wikipedia.org/wik
   * Dock Colour: Black
   * SoC: NVIDIA "T239"
   * RAM: 12GB LPDDR5X
-  * Storage: 256GB UFS
+  * Storage: 256GB internal UFS 3.1
+  * Storage 2: "GameStop" (Lexar) 256GB microSD Express
   * Screen: 1920x1080 capacitive IPS LCD, up to 120hz with VRR
-  * Mods: None even *exist* as of yet (Feb 2026)
-* Whitelight (Nintendo Switch 1 OLED)  
-  Bought for a steep discount ($300 compared to $449 [**AT THE TIME**](#game-consoles "It's $489 now. \*incoherent screaming\*")) from someone who already had one, but won it from one of those sweepstakes you see on bread or whatever!
-  * Model: HEG-001
-  * Dock Colour: White
-  * SoC: NVIDIA Tegra X1+
-  * RAM: 4GB LPDDR4
-  * Storage: 64GB eMMC
-  * Screen: 1280x720 capacitive OLED
-  * Modchip: None but I do want to get one installed eventually
+  * Mods: None even *exist* as of yet (June 2026)
 * New Nintendo 2DS XL  
   And the award for worst console name goes to...  
   Pressured my mom into buying it at GameStop when I was either 11 or 13, I forgot when exactly.  
@@ -81,7 +73,7 @@ Named after the famous(?) [Ship of Theseus paradox](https://en.wikipedia.org/wik
   Very sad considering the market for used 3DSes in USA/CAN is almost entirely composed of scalpers...
   * Model: JAN-001
   * Colour: White/Orange
-  * Storage: 64GB microSD
+  * Storage: SanDisk 64GB microSD (ironically has a Switch logo on it)
   * Screen 1: 400x240* TN LCD  
   *Actually the same 800x240 TN LCD found in the New **3**DS XL, but with the 3D feature rendered inaccessible
   * Screen 2: 320x240 resistive TN LCD
@@ -114,9 +106,15 @@ Named after the famous(?) [Ship of Theseus paradox](https://en.wikipedia.org/wik
   ^ But for some reason, I peeled off Yoshi's tongue.
   * Model: RVL-001
   * Colour: White
+* PS3  
+  I generally prefer the PS3 to the Xbox 360, but the DualShock 3 might genuinely be the worst controller ever.
+  * Model: CECH-2501B (Slim)
+  * HDD: Samsung 1TB laptop drive, forgot what RPM but probably 5400?
+  * CFW: Evilnat 4.9something, they're still updating it
+  * Colour: Black
 ### Retired phones:
 * Samsung Galaxy S5 Neo:  
-  A canadian exclusive phone, how cool!  
+  A canadian exclusive phone(?), how cool!  
   Unfortunately it suffers from a 32-bit firmware despite having a 64-bit SoC. RIP usability I guess
   * Specs:
     * OS: Android 7.1 (LineageOS 14.1)
@@ -143,6 +141,18 @@ Named after the famous(?) [Ship of Theseus paradox](https://en.wikipedia.org/wik
 # Graveyard
 This section dedicated to devices that are no longer with me.  
 May the dead rest peacefully in the digital afterlife, and may the sold be enjoyed by their new owners.
+* Whitelight (Nintendo Switch 1 OLED): Sold  
+  After the announcement of the [Handheld Mode Boost](https://en-americas-support.nintendo.com/app/answers/detail/a_id/68475/~/how-to-use-handheld-mode-boost-on-nintendo-switch%26nbsp%3B2) feature for Switch 2, I decided to sell my original Switch.  
+  I used the proceeds to buy a Switch 2 Pro Controller and Tomodachi Life: Living the Dream.  
+  And a pizza.  
+  (Originally) bought for a steep discount ($300 compared to $449 [**AT THE TIME**](#game-consoles "It's $489 now. \*incoherent screaming\*")) from someone who already had one, but won it from one of those sweepstakes you see on bread or whatever!
+  * Model: HEG-001
+  * Dock Colour: White
+  * SoC: NVIDIA Tegra X1+
+  * RAM: 4GB LPDDR4
+  * Storage: 64GB eMMC
+  * Screen: 1280x720 capacitive OLED
+  * Modchip: None but I did want to get one at some point, guess it's too late now
 * Dell SP2008WFP: Scrapped
   * Lifespan: ???? to 2025-06-02
   * Cause of death: Backlight died of old age I guess, probably would have been fixable
