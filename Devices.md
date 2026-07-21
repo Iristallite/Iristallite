@@ -5,27 +5,28 @@ My pride and joy, the desktop that's grown with me over the years!
 When my dad closed his PC repair business, it became an e-waste garden for me to pick through as much as I wanted.  
 Named after the famous(?) [Ship of Theseus paradox](https://en.wikipedia.org/wiki/Ship_of_Theseus) due to almost no parts remaining from the original build.  
 ^ I think the only things left are the power supply, Blu-ray drive, and a single WD Green hard drive, the last of 5.
-  * Current specs: (as of 2026-06-25)
+  * Current specs: (as of 2026-07-21)
     * CPU: Intel Core i5-12600K
     * GPU: NVIDIA GeForce RTX 3060 Ti 8GB
     * RAM: 32GB DDR4-3200 (0/16/0/16)
     * OS: Windows 11 Workstation
-    * Main SSD: 1TB Sabrent Rocket 4.0
-    * Auxiliary SSD: 500GB Sabrent Rocket 3.0
-    * Funnier SSD: The 64GB eMMC from the original base-model Steam Deck ("Foresee E2M2")
+    * Main NVMe: 1TB Sabrent Rocket 4.0
+    * Secondary NVMe: 500GB Sabrent Rocket 3.0
+    * Tertiary NVMe: 256GB Intel SSD 600p
+    * Funnier "NVMe": Foresee E2M2 64GB  
+      <sup>Yes, that's the same 64GB eMMC from the original base-model Steam Deck. It's a smart reuse!</sup>
     * RAID controller: Fujitsu D2607 (LSI 9211-8i)
-    * HDD: Due to budget constraints, the NAS got built into the gaming PC (~26.8TB across 8 assorted drives)
+    * HDD: Due to budget constraints, the NAS was built into the gaming PC (~26.8TB across 8 assorted drives)
     * Optical Media: Hitachi-LG GGW-H20L (CD, DVD, HD-DVD(!?), Blu-Ray)
 * Graphite (Laptop PC)  
   Used business laptops ~~are~~ *were* an amazing budget option... at the time it was $184.
-  * Current specs: (as of 2025-11-30)
+  * Current specs: (as of 2026-07-21)
     * CPU: Intel Core i5-7300U
     * GPU: Intel HD Graphics 620
     * RAM: 16GB DDR4-2666 (8/8)
-    * SSD: 256GB Intel NVMe of some sort
-    * "SSD": 32GB "Kingchuxing" SATA thing that weighs less than a toonie
+    * SSD: Kingston A400 240GB (2.5" SATA)
     * Screen: The second worst TN LCD I've seen on a laptop
-    * OS: Windows 11, I forget if it was Enterprise or Workstation though
+    * OS: Fedora KDE 44
 * Deepslate (Handheld PC)  
   Its only notable quality is that I bought it with *a gigantic stack of Steam gift cards.*
    * Specs:
@@ -34,17 +35,9 @@ Named after the famous(?) [Ship of Theseus paradox](https://en.wikipedia.org/wik
     * RAM: 16GB LPDDR5-5500
     * OS: SteamOS 3
     * SSD: 256GB Sabrent Rocket 2230
+    * microSD: Silicon Power 32GB
     * Screen: 1280x800 capacitive IPS LCD
 ## Mobile Devices (iOS/Android/whatever)
-* Rustleaf (iPad mini 5)  
-  Unfortunately dropped onto solid concrete in March 2025, its original screen was completely obliterated.  
-  A new screen was finally installed around April 2026, but I didn't quite do it right, and it isn't adhered properly.
-  * Specs:
-    * Model: A2133 (Wi-Fi)
-    * SoC: Apple A12
-    * RAM: 3GB
-    * Storage: 64GB
-    * LCD: Knockoff screen with HORRENDOUS colours
 * Hurricane (iPhone 13 mini)  
   I love small phones. Please make more of them.
   * Specs:
@@ -53,7 +46,15 @@ Named after the famous(?) [Ship of Theseus paradox](https://en.wikipedia.org/wik
     * RAM: 4GB but I could have sworn it was 8GB
     * Storage: 128GB
     * Screen: 2340x1080 "Super Retina XDR" OLED
-
+* Rustleaf (iPad mini 5)  
+  Unfortunately dropped onto solid concrete in March 2025, its original screen was completely obliterated.  
+  A new screen was finally installed around April 2026, but I didn't quite do it right, and it isn't adhered properly.
+  * Specs:
+    * Model: A2133 (Wi-Fi)
+    * SoC: Apple A12
+    * RAM: 3GB
+    * Storage: 64GB
+    * LCD: Poorly-installed knockoff screen with dull colours
 ## Game Consoles
 * Blacklight II (Nintendo Switch 2)  
   Hilariously, *also* bought at a steep discount ($450 compared to $629) from a winner of a bread-adjacent giveaway!  
@@ -65,24 +66,27 @@ Named after the famous(?) [Ship of Theseus paradox](https://en.wikipedia.org/wik
   * Storage: 256GB internal UFS 3.1
   * Storage 2: "GameStop" (Lexar) 256GB microSD Express
   * Screen: 1920x1080 capacitive IPS LCD, up to 120hz with VRR
-  * Mods: None even *exist* as of yet (June 2026)
-* New Nintendo 2DS XL  
+  * Mods: None even *exist* as of yet (July 2026)
+* Joker (New Nintendo 2DS XL)  
   And the award for worst console name goes to...  
-  Pressured my mom into buying it at GameStop when I was either 11 or 13, I forgot when exactly.  
-  Unfortunately it shuts off if you press too hard, and what qualifies as "too hard" has progressively gotten worse to the point where it's now unusable.  
+  >Pressured my mom into buying it at GameStop when I was either 11 or 13, I forgot when exactly.  
+  Unfortunately it shuts off if you press too hard, and what qualifies as "too hard" has progressively gotten worse to the point where it's now almost unusable.  
   Very sad considering the market for used 3DSes in USA/CAN is almost entirely composed of scalpers...
   * Model: JAN-001
   * Colour: White/Orange
-  * Storage: SanDisk 64GB microSD (ironically has a Switch logo on it)
+  * OFW: 11.17.0-50U
+  * CFW: Luma3DS v13.3.3
+  * Storage: SanDisk "Legend of Zelda" 64GB microSD  
+  <sup>...that ironically has the Nintendo Switch logo on it</sup>
   * Screen 1: 400x240* TN LCD  
-  *Actually the same 800x240 TN LCD found in the New **3**DS XL, but with the 3D feature rendered inaccessible
+  <sup>*Appears to be the same 800x240 TN LCD found in the New **3**DS XL, but with the 3D feature rendered inaccessible?</sup>
   * Screen 2: 320x240 resistive TN LCD
 * PS Vita  
   Somehow, it took until my *third* Vita to finally get one that works fully...  
   ...AND THEN IT GOT STICK DRIFT. DAMN IT. (I will replace the left stick... sometime)
   * Model: PCH-2001 (Slim)
   * Colour: Black
-  * Storage: 256GB microSD (via SD2Vita adapter)
+  * Storage: Silicon Power 256GB microSD (via SD2Vita adapter)
   * Screen: 960x544 capacitive LCD
 * Nintendo DSi  
   Weirdly enough, it's an Australia/New Zealand region console... in Canada.  
@@ -91,27 +95,40 @@ Named after the famous(?) [Ship of Theseus paradox](https://en.wikipedia.org/wik
   * Colour: Pink
 * Wii U  
   I freaked out when I got this for Christmas 2015.
-  * Storage: 32GB 
+  * Storage: 32GB (Samsung NAND, thankfully)
   * Colour: Black
 * Wii 0  
-  Christmas 2011 called, it wants its Wii back.  
+  >Christmas 2011 called, it wants its Wii back.  
   I accidentally dropped this console, breaking the DVD drive.  
   Dad promised me he'd repair it...
   * Model: RVL-001
   * Colour: White
 * Wii 1  
-  ...and instead of actually repairing it, he stealth-replaced it with this more effecient 2009 revision, copied all our saves & Miis over, and then put the old one in a shoebox without formatting it.
+  >...and instead of actually repairing it, he stealth-replaced it with this more effecient 2009 revision, copied all our saves & Miis over, and then put the old one in a shoebox without formatting it.
   Amazingly(?), its NAND has zero bad blocks.  
   It also has some Super Mario Galaxy 2 stickers on it that I got from a capsule machine at Walmart.  
   ^ But for some reason, I peeled off Yoshi's tongue.
   * Model: RVL-001
   * Colour: White
-* PS3  
+* Blackcomb (PS3)  
   I generally prefer the PS3 to the Xbox 360, but the DualShock 3 might genuinely be the worst controller ever.
   * Model: CECH-2501B (Slim)
-  * HDD: Samsung 1TB laptop drive, forgot what RPM but probably 5400?
-  * CFW: Evilnat 4.9something, they're still updating it
+  * HDD: Samsung Spinpoint M8 (1TB 5400RPM, technically a rebranded Seagate Momentus 5400)
+  * CFW: Evilnat 4.9whatever the latest one is, it's still being updated
   * Colour: Black
+* Firefly (PS4)  
+  Not my favourite console ever, but it's nice.  
+  The DualShock 4 is currently my favourite controller, and mine sees a ton of use on PC.  
+  <sup>(maybe once I get my Steam Controller in 2027 this will change?)</sup>  
+  Origin story:
+  >Lucked into this after fixing an IRL friend's PC, he said it was a PS3...  
+  I said "Oh cool, spare parts if mine breaks!"</sub>  
+  And then it was actually an original model PS4...  
+  ...on an exploitable firmware!! Awesome!!  
+  * Model: CUH-1115A (Original design aka "fat")
+  * HDD: WD Blue WD10JPVX (1TB 5400RPM)
+  * FW: 9.00 OFW + GoldHEN via whatever exploit is most relevant
+  * Colour: White ("Glacier white" *Destiny* bundle)
 ### Retired phones:
 * Samsung Galaxy S5 Neo:  
   A canadian exclusive phone(?), how cool!  
