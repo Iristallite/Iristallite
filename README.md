@@ -15,7 +15,6 @@ Languages I'm decently fluent in:
 * Deepslate (Handheld PC)
 
 ### Other sites! Usernames!
-Twitter: [@Iristallite](https://twitter.com/Iristallite)  
 Bluesky: [@iristallite.bsky.social](https://bsky.app/profile/iristallite.bsky.social)  
 Discord: irislynnfield  
 Twitch: [IrisLynnfield](https://twitch.tv/IrisLynnfield)  
